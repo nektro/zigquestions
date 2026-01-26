@@ -13,4 +13,4 @@ Want to answer regularly? Use the "watch" feature to get new questions in your G
 ## More About Zig
 
 - https://ziglang.org
-- https://github.com/ziglang/zig
+- https://codeberg.org/ziglang/zig
